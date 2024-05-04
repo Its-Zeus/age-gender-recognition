@@ -1,0 +1,32 @@
+{
+  "name": "age-gender-recognition",
+  "version": "1.0.0",
+  "description": "A JS library that detects the age and gender of a face image",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Its-Zeus/age-gender-recognition.git"
+  },
+  "keywords": [
+    "facialage",
+    "age-detection",
+    "gender-detection",
+    "age",
+    "gender"
+  ],
+  "author": "Zeuscript",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Its-Zeus/age-gender-recognition/issues"
+  },
+  "homepage": "https://github.com/Its-Zeus/age-gender-recognition#readme",
+  "dependencies": {
+    "axios": "^1.6.8",
+    "cheerio": "^1.0.0-rc.12",
+    "form-data": "^4.0.0"
+  }
+  
+}
