@@ -16,7 +16,7 @@ To use this package, follow these steps:
 1. Import the package into your Node.js application:
 
 ```javascript
-const genderage = require('facialage-gender-recognition');
+const genderage = require('age-gender-recognition');
 ```
 
 2. Call the `genderage` function with the ImageStream you want to analyze:
